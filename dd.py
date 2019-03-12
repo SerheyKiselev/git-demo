@@ -6,3 +6,4 @@ name = input ("Имя?")
 print ("Привет!", name)
 # end program
 # first commit feature
+# second commit feature
